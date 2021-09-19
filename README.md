@@ -7,6 +7,6 @@ First, we need to create a Shiny application and deploy it on Rstudio's
 servers. Second, we should use Slidify or Rstudio Presenter to prepare a
 reproducible pitch presentation about the application.
 
-The app developed for the first part of the assignment is avalilable at: https://1matyusi.shinyapps.io/appproject/
+The app developed for the first part of the assignment is avalilable [here](https://1matyusi.shinyapps.io/appproject/)
 
-The presentation is available at: https://anjishnumahanta.me/shipt.github.io/
+The presentation is available [here](https://anjishnum.github.io/shipt.github.io/)
